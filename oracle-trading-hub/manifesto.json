@@ -1,0 +1,48 @@
+{
+  "project": "The Oracle Trading Hub",
+  "id": "proj_binance_001",
+  "status": "SANDBOX_MODE",
+  "version": "0.1.0",
+  "manifesto": {
+    "philosophy": "Modular, Agentic, Secure, and Automated.",
+    "agents": [
+      {
+        "id": "agent_analyst_001",
+        "role": "Strategist",
+        "last_action": "Locked Vision in SPEC.md",
+        "pending": "Define initial indicator logic"
+      },
+      {
+        "id": "agent_architect_001",
+        "role": "Architect",
+        "last_action": "Designed Sharded Candle Schema",
+        "pending": "Integrate manifesto.json workflow"
+      },
+      {
+        "id": "agent_developer_001",
+        "role": "Harvester",
+        "last_action": "Async Exchange Handshake Verified",
+        "pending": "Mocked Harvester for Sandbox Testing"
+      },
+      {
+        "id": "agent_sentinel_001",
+        "role": "Sentinel",
+        "last_action": ".env Lockdown implemented",
+        "pending": "Encrypted Credential Store Prototyping"
+      },
+      {
+        "id": "agent_ui_001",
+        "role": "UI Specialist",
+        "last_action": "Streamlit Login Shell drafted",
+        "pending": "Integrate Playwright for UI testing"
+      }
+    ]
+  },
+  "log": [
+    {
+      "timestamp": "2026-02-01T11:45:00Z",
+      "agent": "Purple AI Orchestrator",
+      "event": "Shifted to Sandbox Mode; Initialized manifesto.json and CMD.md"
+    }
+  ]
+}
