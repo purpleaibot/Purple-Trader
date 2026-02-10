@@ -1,0 +1,6 @@
+streamlit
+ccxt
+langchain
+python-dotenv
+sqlalchemy
+pandas_ta
